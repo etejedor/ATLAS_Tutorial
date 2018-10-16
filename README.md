@@ -1,2 +1,20 @@
-# ATLAS_Tutorial
-ROOT Tutorial for ATLAS PhD students
+# ATLAS Induction Days and Software Tutorials: Latest From ROOT
+<hr style="border-top-width: 4px; border-top-color: #34609b;" />
+Welcome to the hands-on session of the Latest From ROOT contribution of the ATLAS Induction Days and Software Tutorials.
+
+[![OpenInSwan](Badge.svg)](https://cern.ch/swanserver/cgi-bin/go/?projurl=https://github.com/etejedor/Atlas_Tutorial.git) 
+
+## Objectives
+During this session, you will see in action the concepts we discussed during the presentation. In particular, you will perform an "analysis" of an open LHC dataset.
+
+The tool you will be using is [RDataFrame](https://root.cern.ch/doc/master/classROOT_1_1RDataFrame.html). We provided for you two notebooks where you will be able to complete a skeleton already prepared for you. One notebook is in Python, the other one in C++: feel free to decide to start with the one you prefer. 
+
+We provide also solutions: our proposal to solve the exercises we provide. Try to look at them only when the time is up!
+
+**Warning**: remember to configure your SWAN session with the "Bleeding Edge" software stack, which includes the 6.14/00 ROOT release.
+
+## Running a Notebook Cell
+In order to run a notebook cell, the combination of keys to press is *shift+enter*, in case you are not familiar with this interface!
+
+Copyright CERN, 2018
+Enrico Guiraud, Danilo Piparo, Enric Tejedor, Stefan Wunsch
